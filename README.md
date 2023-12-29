@@ -2,4 +2,4 @@
 ![Rock-Paper-Scissors](https://github.com/Ajit49/Rock-Paper-Scissors/assets/82594129/95fd0c27-8e95-4710-8453-153e590d0cc9)
 
 Mini Project Rock Paper Scissors game using HTML5, CSS, JavaScript. 
-In avaScript using concept like operators, functions, Array,  DOM and Events.
+In javaScript using concept like operators, functions, Array,  DOM and Events.
